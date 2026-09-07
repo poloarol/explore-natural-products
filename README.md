@@ -130,6 +130,7 @@ The project currently uses a combination of:
 * **PyTorch**
 * **Hugging Face Transformers**
 * **ESM-2 protein language models**
+* **ChemBERTa-10M-MLM**
 * **scikit-learn**
 * **UMAP**
 * **pandas**
